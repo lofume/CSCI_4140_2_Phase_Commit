@@ -20,6 +20,5 @@ purchase order and parts list based on the outputted info using a Coordinator to
 
 ## Authors and acknowledgment
 * Lynda Ofume (Developer) - Dec 3, 2022
-* B00738568
 * CSCI 4140
 
